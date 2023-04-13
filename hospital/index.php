@@ -128,7 +128,7 @@ echo "<script>window.location.href ='index.php'</script>";
 
                             <div class="blog-single-det">
                                 <h6>Patient Login</h6>
-                                <a href="hms/user-login.php" target="_blank">
+                                <a href="hms/user-login.php">
                                     <button class="btn btn-success btn-sm">Click Here</button>
                                 </a>
                             </div>
@@ -141,7 +141,7 @@ echo "<script>window.location.href ='index.php'</script>";
 
                             <div class="blog-single-det">
                                 <h6>Doctors login</h6>
-                                <a href="hms/doctor" target="_blank">
+                                <a href="hms/doctor">
                                     <button class="btn btn-success btn-sm">Click Here</button>
                                 </a>
                             </div>
@@ -156,7 +156,7 @@ echo "<script>window.location.href ='index.php'</script>";
                             <div class="blog-single-det">
                                 <h6>Admin Login</h6>
                     
-                                <a href="hms/admin" target="_blank">
+                                <a href="hms/admin">
                                     <button class="btn btn-success btn-sm">Click Here</button>
                                 </a>
                             </div>
